@@ -1,5 +1,8 @@
-from hello_world import some_func 
+from chai import tea
 
 
-some_func("ginger tea")
+tea("chai or python!")
 
+tea_1 = "lemon tea"
+tea_2 = "ginger tea"
+tea_3 = "masala tea"
